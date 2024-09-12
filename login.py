@@ -17,6 +17,6 @@ while attempt<max_attempts:
         Username = input("Enter your name:")
         password = int(input("Enter your password:"))
     else:
-        print("failed  ! Too many attempts")
+        print("failedToo many attempts")
 
     
